@@ -1,9 +1,12 @@
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://anmolsharma.co.in/)
+[![MasterHead]()](https://anmolsharma.co.in/)
+
+
 
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
 <h3 align="center">Full Stack Engineer | Angular • React • Node.js • TypeScript</h3>
+<!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
+  <a href="https://anmolsharma.co.in/" target="blank"><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"></a>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ### 🚀 About Me
 
