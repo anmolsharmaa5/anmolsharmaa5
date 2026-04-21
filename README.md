@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
 <h3 align="center">Full Stack Engineer | Angular • React • Node.js • TypeScript</h3>
 <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
-  <a href="https://anmolsharma.co.in/" target="blank"><img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"></a>
+  <a href="https://anmolsharma.co.in/" target="blank"><img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"></a>
 
 
 ### 🚀 About Me
