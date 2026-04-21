@@ -1,6 +1,3 @@
-[![MasterHead]()](https://anmolsharma.co.in/)
-
-
 
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
 <h3 align="center">Full Stack Engineer | Angular • React • Node.js • TypeScript</h3>
