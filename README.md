@@ -1,7 +1,5 @@
 <br/>
 <br/>
-<br/>
-<br/>
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
 <h3 align="center">Full Stack Engineer | Angular • React • Node.js • TypeScript</h3>
 <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
